@@ -1,5 +1,3 @@
-### **README**
-
 # Logistic Regression with Gradient Descent
 
 This repository implements a logistic regression model from scratch and applies gradient descent to optimize its parameters. The project consists of two main tasks:
